@@ -1,0 +1,1 @@
+print("Hello, welcome to Lecture 1!")
